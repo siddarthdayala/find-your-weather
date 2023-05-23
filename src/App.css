@@ -1,5 +1,3 @@
-
-
 .root-body{
    display: flex;
    align-items: center;
@@ -10,7 +8,7 @@
    background: linear-gradient(116.82deg, #ADD8E6 0%, #FFFFFF 100%);
    font-family: 'Poppins';
 }
-
+/*this is the main css hole code for the project*/
 .main-body{
   display: flex;
   height: 50%;
